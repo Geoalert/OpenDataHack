@@ -21,7 +21,7 @@
 
 | Region | Name | Area | Download |
 |-------------|------------|----------|----------|
-|Central Asia| **5 cities - centeral area** | 5*100km² | [Geojson, 84Mb](https://minio-production.mapflow.ai/public/data/5cities_central_Asia_vegetation.gpkg.zip?Content-Disposition=attachment%3B%20filename%3D%22data%2F5cities_central_Asia_vegetation.geojson.zip)  [GeoPackage, 66Mb](https://minio-production.mapflow.ai/public/data/5cities_central_Asia_vegetation.gpkg.zip?Content-Disposition=attachment%3B%20filename%3D%22data%2F5cities_central_Asia_vegetation.gpkg.zip) |
+|Central Asia| **5 cities - central areas** | 5*100km² | [Geojson, 84Mb](https://minio-production.mapflow.ai/public/data/5cities_central_Asia_vegetation.gpkg.zip?Content-Disposition=attachment%3B%20filename%3D%22data%2F5cities_central_Asia_vegetation.geojson.zip)  [GeoPackage, 66Mb](https://minio-production.mapflow.ai/public/data/5cities_central_Asia_vegetation.gpkg.zip?Content-Disposition=attachment%3B%20filename%3D%22data%2F5cities_central_Asia_vegetation.gpkg.zip) |
 
 ![**Central Asia - cities vegetation**](images/cities_vegetation.png)
 
